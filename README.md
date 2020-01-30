@@ -12,4 +12,4 @@ NoSQL technology.
 It was developed with the problem of managing projects composed of several tasks and teams.
 
 
-Fonts: https://www.youtube.com/feed/history
+Fonts: https://www.youtube.com/watch?v=KKTX1l3sZGk
